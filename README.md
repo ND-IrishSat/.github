@@ -1,0 +1,2 @@
+# .github
+IrishSat GitHub readme
