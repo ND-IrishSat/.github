@@ -1,7 +1,7 @@
 ## About
 
 * Notre Dame Satellite Club's GitHub  
-* Code base for CubeSat, Iris, Ground Station, and GOAT Lab  
+* Code base for CubeSat, NearSpace, Iris, Ground Station, and GOAT Lab  
 * Operated by computing squad  
 
 ## Mission
